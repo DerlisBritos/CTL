@@ -1,2 +1,2 @@
-#Versão 1.0 do Arquivo (Criação) (alterado na dev por uma lenda)
-#Versão 1.1 (criada em dev)
+#Versão 1.0 do Arquivo (Criação) (Alterado na Master por Derlis Britos)
+#Versão 1.1 do Arquivo (Criação) (Alterado por Derlis Britos)
